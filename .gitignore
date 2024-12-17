@@ -1,0 +1,17 @@
+# Environment variables and secrets
+.env
+tokens.json
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# OS specific files
+.DS_Store
+Thumbs.db
